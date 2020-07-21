@@ -10,3 +10,4 @@ create-react-app confusion --scripts-version=react-scripts@1.1.4
 cd confusion
 npm start
 ```
+> I have started the course on : July 2020 :ocean: 
