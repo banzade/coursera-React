@@ -11,3 +11,5 @@ cd confusion
 npm start
 ```
 > I have started the course on : July 2020 :ocean: 
+
+> I am making this repo public only to help beginners get acquainted with the course's config, not for copying the assignments :seedling:
