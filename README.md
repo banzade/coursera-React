@@ -10,7 +10,7 @@ create-react-app confusion --scripts-version=react-scripts@1.1.4
 cd confusion
 npm start
 ```
-:arrow_heading_down: To use this repo, simply clone and use these commands:
+To use this repo, simply clone and use these commands :arrow_heading_down: 
 ```
 npm install
 npm start
